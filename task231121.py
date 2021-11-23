@@ -45,4 +45,6 @@ from random import random
 from random import randint
 
 # print(int(random() * 255))
-print(randint(0, 255))
+# print(randint(0, 255))
+
+print(int(random() * 255))
